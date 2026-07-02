@@ -1,4 +1,4 @@
-# Computer-Vision-Learning
+# Learning python basics for OpenCV
 ## 1. Starting with the basics of python
 - Google collab
 - Python basics (Input, display, variables, lists, tuples, dictionary, functions)
